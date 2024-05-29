@@ -4,6 +4,7 @@
 Tech Stack
 - API
 - Python
+- Amazon S3 for storage
 - Kafka
 - Spark
 - Data Visualization(still deciding)
